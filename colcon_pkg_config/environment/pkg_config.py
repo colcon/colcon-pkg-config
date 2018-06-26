@@ -30,4 +30,4 @@ class PkgConfigEnvironment(EnvironmentExtensionPoint):
             return []
         return create_environment_hook(
             'pkg_config', prefix_path, pkg_name, 'PKG_CONFIG_PATH',
-            subdirectory, mode='prepend')
+            str(subdirectory), mode='prepend')
