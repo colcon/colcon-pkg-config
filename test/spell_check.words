@@ -1,5 +1,13 @@
+apache
+colcon
+iterdir
 noqa
-pc
+pathlib
 pkgconfig
 pkgname
-pragma
+plugin
+prepend
+pytest
+scspell
+setuptools
+thomas
