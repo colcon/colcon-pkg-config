@@ -1,12 +1,14 @@
 apache
 colcon
 iterdir
+linter
 noqa
 pathlib
 pkgconfig
 pkgname
 plugin
 prepend
+pydocstyle
 pytest
 scspell
 setuptools
