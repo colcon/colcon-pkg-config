@@ -5,7 +5,6 @@ linter
 noqa
 pathlib
 pkgconfig
-pkgname
 plugin
 prepend
 pydocstyle
